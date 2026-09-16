@@ -2,4 +2,6 @@
     <string name="app_name">DK Habit Tracker</string>
     <string name="reminder_channel_name">Habit reminders</string>
     <string name="reminder_channel_description">Reminders for habits you choose to track.</string>
+    <string name="widget_today_description">Today&apos;s habits, progress and quick completion controls.</string>
+    <string name="widget_streak_description">Your strongest current streak and today&apos;s completion count.</string>
 </resources>
