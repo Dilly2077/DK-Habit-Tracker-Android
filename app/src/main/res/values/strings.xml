@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DK Habit Tracker</string>
+    <string name="reminder_channel_name">Habit reminders</string>
+    <string name="reminder_channel_description">Reminders for habits you choose to track.</string>
+</resources>
